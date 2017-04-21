@@ -1,0 +1,21 @@
+id,name,map,url,lon,lat
+0,Ames Research Center,https://goo.gl/maps/Zowr4,http://www.nasa.gov/centers/ames/home/index.html,37.4084826994789,-122.064628601074
+1,Armstrong Flight Research Center,https://goo.gl/maps/WKKsN,http://www.nasa.gov/armstrong ,34.9501163530137,-117.88776397705
+2,Glenn Research Center,https://goo.gl/maps/JSb1K ,http://www.nasa.gov/glenn,41.4154403970706,-81.8618774414062
+3,Goddard Space Flight Center,https://goo.gl/maps/8wK1s,http://www.nasa.gov/goddard,38.9909036466103,-76.8526268005371
+4,Goddard Institute for Space Studies,https://goo.gl/maps/OPx0i,http://giss.nasa.gov,40.8054776018849,-73.9652180671691
+5,Independent Verification and Validation Facility,https://goo.gl/maps/PI6Tp,http://www.nasa.gov/ivv,39.4308233163567,-80.1965045928955
+6,Jet Propulsion Laboratory,https://goo.gl/maps/MV78A ,http://www.nasa.gov/jpl,34.2012966174847,-118.171520233154
+7,Johnson Space Center,https://goo.gl/maps/9hlG8,http://www.nasa.gov/johnson,29.5507612330815,-95.0925064086914
+8,Kennedy Space Center,https://goo.gl/maps/BxhQn ,http://www.nasa.gov/kennedy,28.5823359962388,-80.6503343582153
+9,Langley Research Center,https://goo.gl/maps/y6k3J,http://www.nasa.gov/langley,37.0910613905738,-76.3759231567382
+10,Marshall Space Flight Center,https://goo.gl/maps/9K8Hu,http://www.nasa.gov/marshall,34.6467662465191,-86.674575805664
+11,Michoud Assembly Facility,https://goo.gl/maps/hR420,http://www.nasa.gov/centers/marshall/michoud,30.0264110499361,-89.9164867401123
+12,NASA Engineering and Safety Center,https://goo.gl/maps/y6k3J,http://www.nasa.gov/offices/nesc/home/,37.0914037,-76.3762021
+13,NASA Headquarters,https://goo.gl/maps/Tk9Zv,http://www.nasa.gov/hq,38.8832829564931,-77.0165634155273
+14,NASA Safety Center,https://goo.gl/maps/qObYz,http://www.nasa.gov/offices/nsc/home/,41.4088746,-81.8723488
+15,NASA Shared Services Center,https://goo.gl/maps/69K0I,http://www.nssc.nasa.gov,30.2446836202031,-89.5497322082519
+16,Plum Brook Station,https://goo.gl/maps/VcGYF ,http://www.nasa.gov/centers/glenn/about/testfacilities/index.html,41.3789017113944,-82.6622915267944
+17,Stennis Space Center,https://goo.gl/maps/19YP8,http://www.nasa.gov/stennis,30.3624334824963,-89.6002006530761
+18,Wallops Flight Facility,https://goo.gl/maps/UpskM,http://www.nasa.gov/wallops,37.9396284903461,-75.4574489593505
+19,White Sands Test Facility,https://goo.gl/maps/pXY87,http://www.nasa.gov/centers/wstf/home/,32.4841352074365,-106.614074707031
